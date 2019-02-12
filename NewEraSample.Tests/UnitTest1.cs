@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace DotNetNewEraSample.Tests
 {
     [TestClass]
-    public class JapaneseCalenderTest
+    public class JapanNewEraTest
     {
         [TestMethod]
         public void TestMethod1()
